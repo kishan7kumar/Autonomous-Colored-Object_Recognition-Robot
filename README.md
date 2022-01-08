@@ -1,4 +1,4 @@
-# Autonomous-Colored-Object_Recognition-Robot
+# Autonomous Colored Object Recognition Robot
 
 <b> Brief Description: </b>
 
