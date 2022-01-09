@@ -41,5 +41,9 @@ Step 6:-After successful compilation run your program to see if it works on Ardu
 
 As the industries are searching for more autonomy, the demand for autonomous bots has increased. The bot designed here is autonomous, capable of recognizing a colored object. The robot uses Arduino, color sensor, and ultrasonic sensor, which helps perform all the tasks here. The bot can search objects within the range of the ultrasonic sensor. Hence, its accuracy is less for detecting an object. The color sensor used to detect color can only work if the bot is very close to the object, limiting the color sensing capabilities. Still, in the future, if a microprocessor like raspberry pi is used, then using a camera module, we can enhance the bot capabilities by computer vision or image processing. The bot then will be able to detect a colored object from long distances and also will be able to reach it without using ultrasonic sensors. We can also use computer vision to make robot place objects at a particular spot.
 
-
 ![IMG_3298](https://user-images.githubusercontent.com/53033119/148635876-b1d6682d-12af-4299-939a-376ee7ba7545.JPG)
+
+##  <b> Video Demonstration </b>
+
+https://user-images.githubusercontent.com/53033119/148671085-9a0a5b28-3686-419e-9375-86b474970291.mp4
+
